@@ -1,2 +1,2 @@
-# html_email_tut
+# HTML Email 
 CodingPhase.com tutorial for building html/css emails
